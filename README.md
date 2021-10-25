@@ -1,0 +1,1 @@
+# expressao-condicional-ternaria
