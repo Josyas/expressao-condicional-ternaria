@@ -1,0 +1,13 @@
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.exe
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.deps.json
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.runtimeconfig.json
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.runtimeconfig.dev.json
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.dll
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\bin\Debug\netcoreapp3.1\expressao condicional ternaria.pdb
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.AssemblyInfo.cs
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.dll
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.pdb
+D:\VisualStudioProjetos\expressao condicional ternaria\expressao condicional ternaria\obj\Debug\netcoreapp3.1\expressao condicional ternaria.genruntimeconfig.cache
